@@ -6,4 +6,5 @@
   * [Untitled](guan-li-xi-tong/untitled-1.md)
   * [Untitled](guan-li-xi-tong/untitled-2.md)
 * [人脸检测与识别](ren-lian-jian-ce-yu-shi-bie.md)
+* [系统部署](xi-tong-bu-shu.md)
 
