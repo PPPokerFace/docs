@@ -6,6 +6,7 @@
   * [IDE](guan-li-xi-tong/ide.md)
   * [Django开发入门](guan-li-xi-tong/django-kai-fa-ru-men.md)
   * [Vue开发入门](guan-li-xi-tong/vue-kai-fa-ru-men.md)
+  * [数据库](guan-li-xi-tong/shu-ju-ku.md)
   * [系统后台](guan-li-xi-tong/xi-tong-hou-tai.md)
   * [系统前台](guan-li-xi-tong/xi-tong-qian-tai/README.md)
     * [后端开发](guan-li-xi-tong/xi-tong-qian-tai/hou-duan-kai-fa.md)
