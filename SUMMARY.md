@@ -11,5 +11,8 @@
     * [后端开发](guan-li-xi-tong/xi-tong-qian-tai/hou-duan-kai-fa.md)
     * [前端开发](guan-li-xi-tong/xi-tong-qian-tai/qian-duan-kai-fa.md)
 * [人脸检测与识别](ren-lian-jian-ce-yu-shi-bie.md)
-* [系统部署](xi-tong-bu-shu.md)
+* [系统部署](xi-tong-bu-shu/README.md)
+  * [Caddy](xi-tong-bu-shu/caddy.md)
+  * [HTTPS](xi-tong-bu-shu/https.md)
+  * [Redis](xi-tong-bu-shu/redis.md)
 
