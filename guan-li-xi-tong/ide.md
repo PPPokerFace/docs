@@ -14,7 +14,7 @@ VisualStudio也能写Python，也支持Django的开发与调试，但是PyCharm�
 
 ~~WebStorm 是jetbrains公司旗下一款JavaScript 开发工具。目前已经被广大中国JS开发者誉为“Web前端开发神器”、“最强大的HTML5编辑器”、“最智能的JavaScript IDE”等。与IntelliJ IDEA同源，继承了IntelliJ IDEA强大的JS部分的功能。~~
 
-通PyCharm一家出品的前端IDE，对Vue支持非常好，有很多高级的调试功能，其实Vue官方的工具能解决很多问题，但是调试的话为了追求快速，最好还是使用IDE。
+同PyCharm一家出品的前端IDE，对Vue支持非常好，有很多高级的调试功能，其实Vue官方的工具能解决很多问题，但是调试的话为了追求快速，最好还是使用IDE。
 
 ## IDEA
 
