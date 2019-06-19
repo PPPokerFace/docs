@@ -8,6 +8,8 @@ description: 没错，原则就是懒，越方便越好
 
 Django 是一种基于Python语言的具有完整架 站能力的开源网络框架，并且提供了完善的开发与测试文档以及API。
 
+![Django&#x6D41;&#x7A0B;](../.gitbook/assets/image.png)
+
 ## [Django REST Framework](https://www.django-rest-framework.org/)
 
 
