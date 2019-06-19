@@ -1,14 +1,26 @@
+---
+description: 没错，原则就是懒，越方便越好
+---
+
 # 相关开发框架及工具
 
-## Django
+## [Django](https://www.djangoproject.com/)
 
-## Django REST Framework
+Django 是一种基于Python语言的具有完整架 站能力的开源网络框架，并且提供了完善的开发与测试文档以及API。
+
+## [Django REST Framework](https://www.django-rest-framework.org/)
+
+
 
 ## Django Channels/WebSocket
 
-## Vue
-
-## AntDesign
 
 
+## [Vue](https://cn.vuejs.org/)
+
+Vue是一个基于Node.js的前端开发框架，它是由中国开发者尤雨溪开发的一套响应式的前端框架（此处的响应式不是指针对屏幕的响应，而是面向数据的响应）。Vue.js与目前市场比较流行的PLOYMER、REACT和ANGULAR相比较，使用量、选择率最高的还是Vue.js框架。
+
+## [AntDesign](https://vue.ant.design/)（Vue版）
+
+基于Vue的前端UI组件，懒人的选择。
 
