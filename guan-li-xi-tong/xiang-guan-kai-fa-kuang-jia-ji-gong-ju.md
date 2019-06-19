@@ -6,7 +6,7 @@ description: 没错，原则就是懒，越方便越好
 
 ## [Django](https://www.djangoproject.com/)
 
-Django 是一种基于Python语言的具有完整架站能力的开源网络框架，并且提供了完善的开发与测试文档以及API。
+Django 是一种基于Python语言的具有完整架站能力的开源网络框架，并且提供了完善的开发与测试文档以及API。（PS：官方文档真的非常详细）
 
 ![Django&#x6D41;&#x7A0B;](../.gitbook/assets/image.png)
 
